@@ -1,1 +1,1 @@
-web: racket -l racket-webapi-001/server
+web: racket -l my-app/server
